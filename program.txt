@@ -1,0 +1,20 @@
+#include <stdio.h>
+int main(void){
+  printf("Hello World!\n");
+  printf("Helo Hello!\n");
+  return 0;
+}
+int main(void){
+  printf("Hello World!\n");
+  print(sss)
+  print(sss)
+  return 0;
+}
+aaaaaannnnnnnnnnnnncskanckalckdfsc   
+aaaaaannnnnnnnnnnnncskanckalckdfscfgr
+
+aamvspv,we,v@weo,vmweddddd
+aamvspv,we,v@weo,vmwedddfdvs
+
+vnwovnowenvipwoingvpiewsndovnenvsn;;
+vnwovnowenvipwoingvpiewsndovnenv
