@@ -45,6 +45,15 @@ DAGの一列化
 分割統治法 
 動的計画法 
 欲張り法 
+
+https://www.mtl.t.u-tokyo.ac.jp/~sakai/hard/
+(坂井先生コンピュータアーキテクチャ)
+
+https://www.mtl.t.u-tokyo.ac.jp/~sakai/vlsi/index.html
+(坂井先生VLSIアーキテクチャ)
+
+http://ocw.u-tokyo.ac.jp/course_11273/
+(坂井先生論理回路)
 ## 2014年度夏入試(2013年8月実施)
 コッホ雪片と格子点の問題
 
