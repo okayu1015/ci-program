@@ -8,6 +8,11 @@ http://ut25252.hatenablog.com/entry/2018/02/21/170037
 
 語句説明問題は図表を書くと高得点の傾向がある
 
+http://www.nlab.ci.i.u-tokyo.ac.jp/~nakayama/algo17/index.html
+(中山教授アルゴリズム講義)
+
+http://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2017/algorithm/index.html
+(五十嵐教授アルゴリズム講義)
 ## 2014年度夏入試(2013年8月実施)
 コッホ雪片と格子点の問題
 
