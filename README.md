@@ -17,6 +17,9 @@ http://www.nlab.ci.i.u-tokyo.ac.jp/~nakayama/algo17/index.html
 http://www-ui.is.s.u-tokyo.ac.jp/~takeo/course/2017/algorithm/index.html
 (五十嵐教授アルゴリズム講義)
 
+https://qiita.com/lethe2211/items/fe4e7870ef896ad750bb
+(python2だけど競技プログラミング)
+
 プログラムの実行時間
 リスト・スタック・待ち行列
 優先度つき待ち行列（ヒープ）
